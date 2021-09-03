@@ -5,7 +5,7 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright><lastBuildDate>Thu, 19 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright><lastBuildDate>Tue, 31 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hua8c16de7726cc20d06ca0226f429b24a_231051_512x512_fill_lanczos_center_3.png</url>
       <title>Latest News</title>
@@ -13,16 +13,43 @@
     </image>
     
     <item>
-      <title>Congratulations to Dr. Haimin Lu for Paper Acceptance</title>
-      <link>/post/21-08-19-ejor-accpted/</link>
+      <title>恭喜张文珠老师，陈勇老师指导的本科生课程设计取得工业工程类专业优秀课程设计优秀成绩</title>
+      <link>/post/21-08-31-com-supervisor-wenzhu/</link>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/post/21-08-31-com-supervisor-wenzhu/</guid>
+      <description>&lt;p&gt;​		本次工业工程类专业优秀课程设计展示活动吸引了70所高校的积极参与，共收到204份课程设计案例。本次课程设计是大学针对课程的综合性实践教学活动，是工业工程人才培养过程中的重要环节，促进了工业工程类专业人才培养经验交流，提高了学生综合运用专业知识系统分析和解决问题的能力。在各高校和专家的大力支持下，历时4个月的展示活动顺利结束，经过专家委员会的评审，现公布&lt;a href=&#34;http://jzw.ie.tsinghua.edu.cn/Show/index/cid/45/id/1584.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;成绩&lt;/a&gt;。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>恭喜易文超老师，陈勇老师指导的本科生课程设计取得工业工程类专业优秀课程设计优秀成绩</title>
+      <link>/post/21-08-31-com-supervisor-wenchao/</link>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/post/21-08-31-com-supervisor-wenchao/</guid>
+      <description>&lt;p&gt;​		本次工业工程类专业优秀课程设计展示活动吸引了70所高校的积极参与，共收到204份课程设计案例。本次课程设计是大学针对课程的综合性实践教学活动，是工业工程人才培养过程中的重要环节，促进了工业工程类专业人才培养经验交流，提高了学生综合运用专业知识系统分析和解决问题的能力。在各高校和专家的大力支持下，历时4个月的展示活动顺利结束，经过专家委员会的评审，现公布&lt;a href=&#34;http://jzw.ie.tsinghua.edu.cn/Show/index/cid/45/id/1584.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;成绩&lt;/a&gt;。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Congratulations to Prof. Zhi Pei and his Ph.D. students Haimin Lu for Paper Acceptance</title>
+      <link>/post/21-08-19-ejor-accpted-haimin/</link>
       <pubDate>Thu, 19 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>/post/21-08-19-ejor-accpted/</guid>
-      <description>&lt;p&gt;Congratulations to Haimin Lu for his paper was accepted by the European Journal of Operational Research.&lt;/p&gt;
+      <guid>/post/21-08-19-ejor-accpted-haimin/</guid>
+      <description>&lt;p&gt;Congratulations to Prof. Zhi Pei and his Ph.D. students Haimin Lu for their paper was accepted by the European Journal of Operational Research.&lt;/p&gt;
+&lt;h3 id=&#34;title&#34;&gt;Title&lt;/h3&gt;
+&lt;p&gt;Target-based Distributionally Robust Optimization for Single Machine Scheduling&lt;/p&gt;
 &lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p&gt;
-&lt;p&gt;Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p&gt;
-&lt;p&gt;Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.&lt;/p&gt;
-&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;</description>
+&lt;p&gt;In the traditional single-machine scheduling problem with uncertain processing time, distributionally robust optimization models are established in situations where the distribution information is not known exactly. One well-studied robust optimization method used in scheduling is the distributionally β-robust optimization technique. The goal of this technique is to maximize the probability that the total flow time of the job sequence does not exceed the predetermined target level T. However, it is possible that the excess value of the total flow time beyond the target T may be incredibly large, and therefore it is necessary to consider the optimized excess value. To address this concern, two new target-based risk measures are introduced. First, target-oriented CVaR, the worst-case conditional value-at-risk (CVaR) is used to minimize the excess value beyond T, which accounts for both the excess probability and the excess value. Second, the essential riskiness index (ERI) is extended to a multi-piecewise linear function for excess value control in single-machine scheduling problems. To obtain a tractable closed-form solutions of the risk measures, the CVaR-based measure is decomposed into an assignment problem and a second-order cone programming problem, and the ERI is converted to its equivalent semi-definite programming and second-order cone counterparts. To efficiently solve the risk measures for single-machine scheduling, a bisection search algorithm and a Benders decomposition algorithm are designed. In the numerical analysis, the excess value and the probability are investigated with respect to two distributions, namely the two-point distribution and the truncated normal distribution. The experiment design also considers different ranges of expectation and variance, tolerance levels, and problem scales. It is discovered that the CVaR and ERI-based methods are always better than the distributionally β-robust scheduling approach in terms of excess value.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Congratulations to Prof. Wenzhu Zhang for Paper Acceptance</title>
+      <link>/post/21-04-21-ejor-accpted-wenzhu/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/post/21-04-21-ejor-accpted-wenzhu/</guid>
+      <description>&lt;p&gt;Congratulations to Prof. Wenzhu Zhang for her paper was accepted by the European Journal of Operational Research.&lt;/p&gt;
+&lt;h3 id=&#34;title&#34;&gt;Title&lt;/h3&gt;
+&lt;p&gt;Frequency competition among airlines on coordinated airports network&lt;/p&gt;
+&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;Frequency competition is critical for a full-service airline in gaining market share, and adopting a proper strategy can improve an airline’s profits. This study proposes a new equilibrium programming model with flow balance to address frequency competition on airports network with time slot constraints. We first show that a pure-strategy Nash equilibrium may not always exist, and thus forming a pure strategy profile in frequency competition among airlines may naturally lead to deviation from current frequency. Therefore, we formulate the problem as a programming model with a mixed-strategy Nash equilibrium. To avoid shocks from dramatic frequency changes across the network, airlines tend to fine-tune frequencies on select segments during each adjustment. We propose a procedure to generate a computationally tractable amount of representative strategies from a finite set of feasible strategies to demonstrate mixed-strategy Nash equilibrium. We conduct an empirical analysis using an example in which industry profitability increased by as much as 7.89%. We then extend the model to formulate frequency competition among metal-neutral alliances. The results show that forming metal-neutral alliances can improve total industry profits by 10.59%. In particular, a sensitivity analysis with real data on the tolerance of flow imbalance demonstrates that deducting the potential costs due to the relaxation of flow balance between congested airports may earn additional total industry profits in a frequency competition.&lt;/p&gt;</description>
     </item>
     
   </channel>
