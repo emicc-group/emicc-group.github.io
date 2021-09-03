@@ -5,7 +5,7 @@
     <link>/publication-type/2/</link>
       <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright><lastBuildDate>Wed, 21 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright><lastBuildDate>Thu, 19 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hua8c16de7726cc20d06ca0226f429b24a_231051_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
@@ -13,10 +13,74 @@
     </image>
     
     <item>
+      <title>Target-based Distributionally Robust Optimization for Single Machine Scheduling</title>
+      <link>/publication/pei-2021-target/</link>
+      <pubDate>Thu, 19 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/pei-2021-target/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Managing price and fleet size for courier service with shared drones</title>
+      <link>/publication/pei-2021-managing/</link>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/pei-2021-managing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Frequency competition among airlines on coordinated airports network</title>
       <link>/publication/wen-2021-frequency/</link>
       <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
       <guid>/publication/wen-2021-frequency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-objective reconfigurable production line scheduling forsmart home appliances</title>
+      <link>/publication/shiyun-2021-multi/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/shiyun-2021-multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An incentive mechanism for partner selection from a collaborative network with private information</title>
+      <link>/publication/wang-2021-incentive/</link>
+      <pubDate>Mon, 14 Dec 2020 14:19:12 +0800</pubDate>
+      <guid>/publication/wang-2021-incentive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial and temporal optimization for smart warehouses with fast turnover</title>
+      <link>/publication/jiang-2021-spatial/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/jiang-2021-spatial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic Insights and Perspectives: Cellular Automata and Production Scheduling</title>
+      <link>/publication/chen-2020-academic/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/chen-2020-academic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pricing strategies for competitive firms with indirect network effects</title>
+      <link>/publication/zhang-2021-pricing/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/zhang-2021-pricing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ε Constrained differential evolution using halfspace partition for optimization problems</title>
+      <link>/publication/yi-2021-varepsilon/</link>
+      <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/yi-2021-varepsilon/</guid>
       <description></description>
     </item>
     
@@ -33,6 +97,150 @@
       <link>/publication/pei-2020-new/</link>
       <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
       <guid>/publication/pei-2020-new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analytic network process: Academic insights and perspectives analysis</title>
+      <link>/publication/chen-2019-analytic/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/chen-2019-analytic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A column generation-based approach for proportionate flexible two-stage no-wait job shop scheduling</title>
+      <link>/publication/pei-2020-column/</link>
+      <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/pei-2020-column/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal appointment reminder sending strategy for a single service scenario with customer no-show behaviour</title>
+      <link>/publication/wang-2018-optimal/</link>
+      <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/wang-2018-optimal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive differential evolution with sorting crossover rate for continuous optimization problems</title>
+      <link>/publication/zhou-2017-adaptive/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/zhou-2017-adaptive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New unbalanced linguistic scale sets: The linguistic information representations and applications</title>
+      <link>/publication/pei-2017-new/</link>
+      <pubDate>Sat, 17 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/pei-2017-new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-attribute decision making based on a novel IF point operator</title>
+      <link>/publication/pei-2017-multi/</link>
+      <pubDate>Thu, 24 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/pei-2017-multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solving flexible job shop scheduling using an effective memetic algorithm</title>
+      <link>/publication/yi-2016-solving/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/yi-2016-solving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Engineering design optimization using an improved local search based epsilon differential evolution algorithm</title>
+      <link>/publication/yi-2018-engineering/</link>
+      <pubDate>Sat, 16 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/yi-2018-engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of mutation vectors selection mechanism in differential evolution</title>
+      <link>/publication/zhou-2016-analysis/</link>
+      <pubDate>Tue, 15 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/zhou-2016-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An improved adaptive differential evolution algorithm for continuous optimization</title>
+      <link>/publication/yi-2016-improved/</link>
+      <pubDate>Sun, 20 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/yi-2016-improved/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ɛ constrained differential evolution with pre-estimated comparison using gradient-based approximation for constrained optimization problems</title>
+      <link>/publication/yi-2016-varepsilon/</link>
+      <pubDate>Tue, 08 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/yi-2016-varepsilon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An effective L-MONG algorithm for solving multi-objective flow-shop inverse scheduling problems</title>
+      <link>/publication/mou-2018-effective/</link>
+      <pubDate>Fri, 17 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/mou-2018-effective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A note on the TOPSIS method in MADM problems with linguistic evaluations</title>
+      <link>/publication/pei-2015-note/</link>
+      <pubDate>Fri, 26 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/pei-2015-note/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-objective optimization based reverse strategy with differential evolution algorithm for constrained optimization problems</title>
+      <link>/publication/gao-2015-multi/</link>
+      <pubDate>Thu, 02 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/gao-2015-multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new differential evolution algorithm with a hybrid mutation operator and self-adapting control parameters for global optimization problems</title>
+      <link>/publication/yi-2015-new/</link>
+      <pubDate>Sun, 30 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/yi-2015-new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simplification of fuzzy multiple attribute decision making in production line evaluation</title>
+      <link>/publication/pei-2013-simplification/</link>
+      <pubDate>Thu, 21 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/pei-2013-simplification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rational decision making models with incomplete weight information for production line assessment</title>
+      <link>/publication/pei-2013-rational/</link>
+      <pubDate>Tue, 24 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/pei-2013-rational/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The infinite time horizon dynamic pricing problem with multi-unit demand</title>
+      <link>/publication/wang-2013-infinite/</link>
+      <pubDate>Mon, 23 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/wang-2013-infinite/</guid>
       <description></description>
     </item>
     
