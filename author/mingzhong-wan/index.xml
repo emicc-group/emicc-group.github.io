@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mingzhong Wan | EMICC Group</title>
+    <link>/author/mingzhong-wan/</link>
+      <atom:link href="/author/mingzhong-wan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mingzhong Wan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright><lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua8c16de7726cc20d06ca0226f429b24a_231051_512x512_fill_lanczos_center_3.png</url>
+      <title>Mingzhong Wan</title>
+      <link>/author/mingzhong-wan/</link>
+    </image>
+    
+    <item>
+      <title>Spatial and temporal optimization for smart warehouses with fast turnover</title>
+      <link>/publication/jiang-2021-spatial/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/jiang-2021-spatial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Approximation Algorithm for Unrelated Parallel Machine Scheduling Under TOU Electricity Tariffs</title>
+      <link>/publication/pei-2020-approximation/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/pei-2020-approximation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new approximation algorithm for unrelated parallel machine scheduling with release dates</title>
+      <link>/publication/pei-2020-new/</link>
+      <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/pei-2020-new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A column generation-based approach for proportionate flexible two-stage no-wait job shop scheduling</title>
+      <link>/publication/pei-2020-column/</link>
+      <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/pei-2020-column/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

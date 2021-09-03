@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xinyu Li | EMICC Group</title>
+    <link>/author/xinyu-li/</link>
+      <atom:link href="/author/xinyu-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xinyu Li</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright><lastBuildDate>Mon, 01 Feb 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua8c16de7726cc20d06ca0226f429b24a_231051_512x512_fill_lanczos_center_3.png</url>
+      <title>Xinyu Li</title>
+      <link>/author/xinyu-li/</link>
+    </image>
+    
+    <item>
+      <title>Solving flexible job shop scheduling using an effective memetic algorithm</title>
+      <link>/publication/yi-2016-solving/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/yi-2016-solving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Engineering design optimization using an improved local search based epsilon differential evolution algorithm</title>
+      <link>/publication/yi-2018-engineering/</link>
+      <pubDate>Sat, 16 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/yi-2018-engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of mutation vectors selection mechanism in differential evolution</title>
+      <link>/publication/zhou-2016-analysis/</link>
+      <pubDate>Tue, 15 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/zhou-2016-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An improved adaptive differential evolution algorithm for continuous optimization</title>
+      <link>/publication/yi-2016-improved/</link>
+      <pubDate>Sun, 20 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/yi-2016-improved/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ɛ constrained differential evolution with pre-estimated comparison using gradient-based approximation for constrained optimization problems</title>
+      <link>/publication/yi-2016-varepsilon/</link>
+      <pubDate>Tue, 08 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/yi-2016-varepsilon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An effective L-MONG algorithm for solving multi-objective flow-shop inverse scheduling problems</title>
+      <link>/publication/mou-2018-effective/</link>
+      <pubDate>Fri, 17 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/mou-2018-effective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-objective optimization based reverse strategy with differential evolution algorithm for constrained optimization problems</title>
+      <link>/publication/gao-2015-multi/</link>
+      <pubDate>Thu, 02 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/gao-2015-multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new differential evolution algorithm with a hybrid mutation operator and self-adapting control parameters for global optimization problems</title>
+      <link>/publication/yi-2015-new/</link>
+      <pubDate>Sun, 30 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/yi-2015-new/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

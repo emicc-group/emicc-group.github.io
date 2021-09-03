@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jiansha Lu | EMICC Group</title>
+    <link>/author/jiansha-lu/</link>
+      <atom:link href="/author/jiansha-lu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jiansha Lu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright><lastBuildDate>Sat, 21 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua8c16de7726cc20d06ca0226f429b24a_231051_512x512_fill_lanczos_center_3.png</url>
+      <title>Jiansha Lu</title>
+      <link>/author/jiansha-lu/</link>
+    </image>
+    
+    <item>
+      <title>ε Constrained differential evolution using halfspace partition for optimization problems</title>
+      <link>/publication/yi-2021-varepsilon/</link>
+      <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/yi-2021-varepsilon/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

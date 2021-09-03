@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jida Huang | EMICC Group</title>
+    <link>/author/jida-huang/</link>
+      <atom:link href="/author/jida-huang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jida Huang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright><lastBuildDate>Tue, 08 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua8c16de7726cc20d06ca0226f429b24a_231051_512x512_fill_lanczos_center_3.png</url>
+      <title>Jida Huang</title>
+      <link>/author/jida-huang/</link>
+    </image>
+    
+    <item>
+      <title>ɛ constrained differential evolution with pre-estimated comparison using gradient-based approximation for constrained optimization problems</title>
+      <link>/publication/yi-2016-varepsilon/</link>
+      <pubDate>Tue, 08 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/yi-2016-varepsilon/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wang Bingjia | EMICC Group</title>
+    <link>/author/wang-bingjia/</link>
+      <atom:link href="/author/wang-bingjia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wang Bingjia</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright>
+    <image>
+      <url>/author/wang-bingjia/avatar_hu538542d835daf14f51238073ede91301_26013_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Wang Bingjia</title>
+      <link>/author/wang-bingjia/</link>
+    </image>
+    
+  </channel>
+</rss>

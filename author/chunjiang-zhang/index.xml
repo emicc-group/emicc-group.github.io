@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chunjiang Zhang | EMICC Group</title>
+    <link>/author/chunjiang-zhang/</link>
+      <atom:link href="/author/chunjiang-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chunjiang Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright><lastBuildDate>Sat, 16 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua8c16de7726cc20d06ca0226f429b24a_231051_512x512_fill_lanczos_center_3.png</url>
+      <title>Chunjiang Zhang</title>
+      <link>/author/chunjiang-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Engineering design optimization using an improved local search based epsilon differential evolution algorithm</title>
+      <link>/publication/yi-2018-engineering/</link>
+      <pubDate>Sat, 16 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/yi-2018-engineering/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

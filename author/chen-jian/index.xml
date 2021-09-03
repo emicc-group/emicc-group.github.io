@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chen Jian | EMICC Group</title>
+    <link>/author/chen-jian/</link>
+      <atom:link href="/author/chen-jian/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chen Jian</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright>
+    <image>
+      <url>/author/chen-jian/avatar_hu0d0fcd8f0194fc8c75e6f7cd87318db9_751094_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Chen Jian</title>
+      <link>/author/chen-jian/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Li Zheng | EMICC Group</title>
+    <link>/author/li-zheng/</link>
+      <atom:link href="/author/li-zheng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Li Zheng</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright><lastBuildDate>Thu, 07 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua8c16de7726cc20d06ca0226f429b24a_231051_512x512_fill_lanczos_center_3.png</url>
+      <title>Li Zheng</title>
+      <link>/author/li-zheng/</link>
+    </image>
+    
+    <item>
+      <title>A column generation-based approach for proportionate flexible two-stage no-wait job shop scheduling</title>
+      <link>/publication/pei-2020-column/</link>
+      <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/pei-2020-column/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New unbalanced linguistic scale sets: The linguistic information representations and applications</title>
+      <link>/publication/pei-2017-new/</link>
+      <pubDate>Sat, 17 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/pei-2017-new/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

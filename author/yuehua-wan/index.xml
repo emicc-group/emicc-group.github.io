@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuehua Wan | EMICC Group</title>
+    <link>/author/yuehua-wan/</link>
+      <atom:link href="/author/yuehua-wan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuehua Wan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua8c16de7726cc20d06ca0226f429b24a_231051_512x512_fill_lanczos_center_3.png</url>
+      <title>Yuehua Wan</title>
+      <link>/author/yuehua-wan/</link>
+    </image>
+    
+    <item>
+      <title>A bibliometric analysis for the research on laser processing based on Web of Science</title>
+      <link>/publication/chen-2020-bibliometric/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/chen-2020-bibliometric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analytic network process: Academic insights and perspectives analysis</title>
+      <link>/publication/chen-2019-analytic/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/chen-2019-analytic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Runhua Wu | EMICC Group</title>
+    <link>/author/runhua-wu/</link>
+      <atom:link href="/author/runhua-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Runhua Wu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright><lastBuildDate>Mon, 14 Dec 2020 14:19:12 +0800</lastBuildDate>
+    <image>
+      <url>/media/icon_hua8c16de7726cc20d06ca0226f429b24a_231051_512x512_fill_lanczos_center_3.png</url>
+      <title>Runhua Wu</title>
+      <link>/author/runhua-wu/</link>
+    </image>
+    
+    <item>
+      <title>An incentive mechanism for partner selection from a collaborative network with private information</title>
+      <link>/publication/wang-2021-incentive/</link>
+      <pubDate>Mon, 14 Dec 2020 14:19:12 +0800</pubDate>
+      <guid>/publication/wang-2021-incentive/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

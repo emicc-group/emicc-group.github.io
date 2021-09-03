@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xin-Yu Li | EMICC Group</title>
+    <link>/author/xin-yu-li/</link>
+      <atom:link href="/author/xin-yu-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xin-Yu Li</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright><lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua8c16de7726cc20d06ca0226f429b24a_231051_512x512_fill_lanczos_center_3.png</url>
+      <title>Xin-Yu Li</title>
+      <link>/author/xin-yu-li/</link>
+    </image>
+    
+    <item>
+      <title>Adaptive differential evolution with sorting crossover rate for continuous optimization problems</title>
+      <link>/publication/zhou-2017-adaptive/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/zhou-2017-adaptive/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

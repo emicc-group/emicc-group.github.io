@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ruiqing Zhao | EMICC Group</title>
+    <link>/author/ruiqing-zhao/</link>
+      <atom:link href="/author/ruiqing-zhao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ruiqing Zhao</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright><lastBuildDate>Mon, 23 Apr 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua8c16de7726cc20d06ca0226f429b24a_231051_512x512_fill_lanczos_center_3.png</url>
+      <title>Ruiqing Zhao</title>
+      <link>/author/ruiqing-zhao/</link>
+    </image>
+    
+    <item>
+      <title>The infinite time horizon dynamic pricing problem with multi-unit demand</title>
+      <link>/publication/wang-2013-infinite/</link>
+      <pubDate>Mon, 23 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/wang-2013-infinite/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

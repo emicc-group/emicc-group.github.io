@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xuwei Qin | EMICC Group</title>
+    <link>/author/xuwei-qin/</link>
+      <atom:link href="/author/xuwei-qin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xuwei Qin</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright><lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua8c16de7726cc20d06ca0226f429b24a_231051_512x512_fill_lanczos_center_3.png</url>
+      <title>Xuwei Qin</title>
+      <link>/author/xuwei-qin/</link>
+    </image>
+    
+    <item>
+      <title>Spatial and temporal optimization for smart warehouses with fast turnover</title>
+      <link>/publication/jiang-2021-spatial/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/jiang-2021-spatial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

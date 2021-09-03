@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wang Cheng | EMICC Group</title>
+    <link>/author/wang-cheng/</link>
+      <atom:link href="/author/wang-cheng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wang Cheng</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright>
+    <image>
+      <url>/author/wang-cheng/avatar_hu764b237f23c6dcb225e6bdaee7bc6c37_1684638_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Wang Cheng</title>
+      <link>/author/wang-cheng/</link>
+    </image>
+    
+  </channel>
+</rss>

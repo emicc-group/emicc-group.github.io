@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cheng Wang | EMICC Group</title>
+    <link>/author/cheng-wang/</link>
+      <atom:link href="/author/cheng-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cheng Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright><lastBuildDate>Mon, 14 Dec 2020 14:19:12 +0800</lastBuildDate>
+    <image>
+      <url>/media/icon_hua8c16de7726cc20d06ca0226f429b24a_231051_512x512_fill_lanczos_center_3.png</url>
+      <title>Cheng Wang</title>
+      <link>/author/cheng-wang/</link>
+    </image>
+    
+    <item>
+      <title>An incentive mechanism for partner selection from a collaborative network with private information</title>
+      <link>/publication/wang-2021-incentive/</link>
+      <pubDate>Mon, 14 Dec 2020 14:19:12 +0800</pubDate>
+      <guid>/publication/wang-2021-incentive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A bibliometric analysis for the research on laser processing based on Web of Science</title>
+      <link>/publication/chen-2020-bibliometric/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/chen-2020-bibliometric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analytic network process: Academic insights and perspectives analysis</title>
+      <link>/publication/chen-2019-analytic/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/chen-2019-analytic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal appointment reminder sending strategy for a single service scenario with customer no-show behaviour</title>
+      <link>/publication/wang-2018-optimal/</link>
+      <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/wang-2018-optimal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The infinite time horizon dynamic pricing problem with multi-unit demand</title>
+      <link>/publication/wang-2013-infinite/</link>
+      <pubDate>Mon, 23 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/wang-2013-infinite/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

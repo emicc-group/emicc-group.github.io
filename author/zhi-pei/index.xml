@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhi Pei | EMICC Group</title>
+    <link>/author/zhi-pei/</link>
+      <atom:link href="/author/zhi-pei/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhi Pei</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright><lastBuildDate>Thu, 19 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua8c16de7726cc20d06ca0226f429b24a_231051_512x512_fill_lanczos_center_3.png</url>
+      <title>Zhi Pei</title>
+      <link>/author/zhi-pei/</link>
+    </image>
+    
+    <item>
+      <title>Target-based Distributionally Robust Optimization for Single Machine Scheduling</title>
+      <link>/publication/pei-2021-target/</link>
+      <pubDate>Thu, 19 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/pei-2021-target/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Managing price and fleet size for courier service with shared drones</title>
+      <link>/publication/pei-2021-managing/</link>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/pei-2021-managing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial and temporal optimization for smart warehouses with fast turnover</title>
+      <link>/publication/jiang-2021-spatial/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/jiang-2021-spatial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic Insights and Perspectives: Cellular Automata and Production Scheduling</title>
+      <link>/publication/chen-2020-academic/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/chen-2020-academic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Approximation Algorithm for Unrelated Parallel Machine Scheduling Under TOU Electricity Tariffs</title>
+      <link>/publication/pei-2020-approximation/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/pei-2020-approximation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ε Constrained differential evolution using halfspace partition for optimization problems</title>
+      <link>/publication/yi-2021-varepsilon/</link>
+      <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/yi-2021-varepsilon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new approximation algorithm for unrelated parallel machine scheduling with release dates</title>
+      <link>/publication/pei-2020-new/</link>
+      <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/pei-2020-new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A column generation-based approach for proportionate flexible two-stage no-wait job shop scheduling</title>
+      <link>/publication/pei-2020-column/</link>
+      <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/pei-2020-column/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New unbalanced linguistic scale sets: The linguistic information representations and applications</title>
+      <link>/publication/pei-2017-new/</link>
+      <pubDate>Sat, 17 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/pei-2017-new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-attribute decision making based on a novel IF point operator</title>
+      <link>/publication/pei-2017-multi/</link>
+      <pubDate>Thu, 24 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/pei-2017-multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A note on the TOPSIS method in MADM problems with linguistic evaluations</title>
+      <link>/publication/pei-2015-note/</link>
+      <pubDate>Fri, 26 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/pei-2015-note/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simplification of fuzzy multiple attribute decision making in production line evaluation</title>
+      <link>/publication/pei-2013-simplification/</link>
+      <pubDate>Thu, 21 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/pei-2013-simplification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rational decision making models with incomplete weight information for production line assessment</title>
+      <link>/publication/pei-2013-rational/</link>
+      <pubDate>Tue, 24 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/pei-2013-rational/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
