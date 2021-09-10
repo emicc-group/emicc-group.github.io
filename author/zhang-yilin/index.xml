@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhang Yilin | EMICC Group</title>
+    <link>/author/zhang-yilin/</link>
+      <atom:link href="/author/zhang-yilin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhang Yilin</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright>
+    <image>
+      <url>/author/zhang-yilin/avatar_hu3a7017d5d2186fbcde44b0b871a42230_17933_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Zhang Yilin</title>
+      <link>/author/zhang-yilin/</link>
+    </image>
+    
+  </channel>
+</rss>
