@@ -5,12 +5,32 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>EMICC Group</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright><lastBuildDate>Wed, 01 Sep 2021 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright><lastBuildDate>Fri, 17 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hua8c16de7726cc20d06ca0226f429b24a_231051_512x512_fill_lanczos_center_3.png</url>
       <title>EMICC Group</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Congratulations to Prof. Zhi Pei for Service Science Paper Acceptance</title>
+      <link>/post/21-09-17-ss-accpted-xu/</link>
+      <pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/post/21-09-17-ss-accpted-xu/</guid>
+      <description>&lt;p&gt;Congratulations to Prof. Zhi Pei, Xu Dai and Tianzong Yu for their paper was accepted by Service Science.&lt;/p&gt;
+&lt;h3 id=&#34;title&#34;&gt;Title&lt;/h3&gt;
+&lt;p&gt;Dynamic rebalancing strategy in free-float bicycle sharing systems: Orbit queues and two-sided matching&lt;/p&gt;
+&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;In populous metropolitan areas, the free-floating bicycle sharing system (FFBSS) acts as an innovative urban mobility-as-a-service (MaaS), which provides an ease-of-use feature and extra flexibility in contrast to the traditional shared bicycles with docks. In consideration of customer behaviors such as abandonment and retrial which occur in FFBSS, a redistribution strategy for shared bicycles among different user-density locations is presented, with an aim to diminish the total operational cost while enhancing the overall service level. To formulate the user and multi-type shared bicycle arrival patterns as non-homogeneous queues, our results provide a tractable analytical paradigm for time-varying balancing strategy for FFBSS. The bicycle variation at each virtual zone after each redistribution is determined via a non-stationary queueing model, where the service time, patience time and re-search delay are all subject to general distribution. Then the bicycle deployment strategy is evaluated with respect to average queueing length and abandonment rate during a normal workday based on a tailored nonhomogeneous probabilistic matching queue. To verify the efficacy and cost-effectiveness of the proposed bicycle redistribution strategy, multiple simulation runs are conducted with respect to various time of the day. It shows that the resulting optimal rebalancing strategy is batch-based, in synchrony with the time heterogeneity in the traffic demand. Furthermore, several managerial insights are provided to shed light on the rule-of-thumb in practical FFBSS redistribution coordination.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dynamic rebalancing strategy in free-float bicycle sharing systems-Orbit queues and two-sided matching</title>
+      <link>/publication/pei-2021-dynamic/</link>
+      <pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/pei-2021-dynamic/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>(2021 Autumn) Manufacturing System Modeling &amp; Analysis</title>

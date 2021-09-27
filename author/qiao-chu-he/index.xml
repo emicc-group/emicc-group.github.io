@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qiao-chu He | EMICC Group</title>
+    <link>/author/qiao-chu-he/</link>
+      <atom:link href="/author/qiao-chu-he/index.xml" rel="self" type="application/rss+xml" />
+    <description>Qiao-chu He</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright><lastBuildDate>Fri, 17 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua8c16de7726cc20d06ca0226f429b24a_231051_512x512_fill_lanczos_center_3.png</url>
+      <title>Qiao-chu He</title>
+      <link>/author/qiao-chu-he/</link>
+    </image>
+    
+    <item>
+      <title>Dynamic rebalancing strategy in free-float bicycle sharing systems-Orbit queues and two-sided matching</title>
+      <link>/publication/pei-2021-dynamic/</link>
+      <pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/pei-2021-dynamic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
