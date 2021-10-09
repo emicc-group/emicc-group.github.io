@@ -5,43 +5,12 @@
     <link>/event/</link>
       <atom:link href="/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Courses</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright><lastBuildDate>Wed, 01 Sep 2021 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hua8c16de7726cc20d06ca0226f429b24a_231051_512x512_fill_lanczos_center_3.png</url>
       <title>Courses</title>
       <link>/event/</link>
     </image>
-    
-    <item>
-      <title>(2021 Autumn) Manufacturing System Modeling &amp; Analysis</title>
-      <link>/event/msma/</link>
-      <pubDate>Wed, 01 Sep 2021 13:00:00 +0000</pubDate>
-      <guid>/event/msma/</guid>
-      <description>&lt;h3 id=&#34;topics&#34;&gt;Topics&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;syllabus&#34;&gt;Syllabus&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-540-88763-8_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Basic Probability Review&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-540-88763-8_2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to Factory Models&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-540-88763-8_3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Single Workstation Factory Models&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-540-88763-8_4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Processing Time Variability&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-540-88763-8_5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Multiple-Stage Single-Product Factory Models&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-540-88763-8_6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Multiple Product Factory Models&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-540-88763-8_7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Models of Various Forms of Batching&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-540-88763-8_8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;WIP&lt;/em&gt; Limiting Control Strategies&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-540-88763-8_9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Serial Limited Buffer Models&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;textbook-and-optional-references&#34;&gt;Textbook and optional references&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;instructor&#34;&gt;Instructor&lt;/h3&gt;
-&lt;p&gt;Zhi Pei, Associate Professor, Industrial Engineering&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>(2021 Autumn) Genetic Algorithm</title>
@@ -70,6 +39,38 @@
 &lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>(2021 Autumn) Manufacturing System Modeling &amp; Analysis</title>
+      <link>/event/msma/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/event/msma/</guid>
+      <description>&lt;h3 id=&#34;topics&#34;&gt;Topics&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Manufacturing System&lt;/li&gt;
+&lt;li&gt;Mathematical Modeling&lt;/li&gt;
+&lt;li&gt;Queuing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;syllabus&#34;&gt;Syllabus&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-540-88763-8_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Basic Probability Review&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-540-88763-8_2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to Factory Models&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-540-88763-8_3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Single Workstation Factory Models&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-540-88763-8_4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Processing Time Variability&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-540-88763-8_5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Multiple-Stage Single-Product Factory Models&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-540-88763-8_6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Multiple Product Factory Models&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-540-88763-8_7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Models of Various Forms of Batching&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-540-88763-8_8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;WIP&lt;/em&gt; Limiting Control Strategies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-540-88763-8_9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Serial Limited Buffer Models&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;textbook-and-optional-references&#34;&gt;Textbook and optional references&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-540-88763-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Curry, G. L., &amp;amp; Feldman, R. M. (2010). &lt;em&gt;Manufacturing systems modeling and analysis&lt;/em&gt;. Springer Science &amp;amp; Business Media.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;instructor&#34;&gt;Instructor&lt;/h3&gt;
+&lt;p&gt;Zhi Pei, Associate Professor, Industrial Engineering&lt;/p&gt;
 </description>
     </item>
     

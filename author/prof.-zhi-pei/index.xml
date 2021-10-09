@@ -5,7 +5,7 @@
     <link>/author/prof.-zhi-pei/</link>
       <atom:link href="/author/prof.-zhi-pei/index.xml" rel="self" type="application/rss+xml" />
     <description>Prof. Zhi Pei</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright><lastBuildDate>Wed, 01 Sep 2021 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hua8c16de7726cc20d06ca0226f429b24a_231051_512x512_fill_lanczos_center_3.png</url>
       <title>Prof. Zhi Pei</title>
@@ -15,12 +15,13 @@
     <item>
       <title>(2021 Autumn) Manufacturing System Modeling &amp; Analysis</title>
       <link>/event/msma/</link>
-      <pubDate>Wed, 01 Sep 2021 13:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       <guid>/event/msma/</guid>
       <description>&lt;h3 id=&#34;topics&#34;&gt;Topics&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;Manufacturing System&lt;/li&gt;
+&lt;li&gt;Mathematical Modeling&lt;/li&gt;
+&lt;li&gt;Queuing&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;syllabus&#34;&gt;Syllabus&lt;/h3&gt;
 &lt;ul&gt;
@@ -36,7 +37,7 @@
 &lt;/ul&gt;
 &lt;h3 id=&#34;textbook-and-optional-references&#34;&gt;Textbook and optional references&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-540-88763-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Curry, G. L., &amp;amp; Feldman, R. M. (2010). &lt;em&gt;Manufacturing systems modeling and analysis&lt;/em&gt;. Springer Science &amp;amp; Business Media.&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;instructor&#34;&gt;Instructor&lt;/h3&gt;
 &lt;p&gt;Zhi Pei, Associate Professor, Industrial Engineering&lt;/p&gt;
