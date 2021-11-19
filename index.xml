@@ -5,12 +5,24 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>EMICC Group</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright><lastBuildDate>Fri, 17 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright><lastBuildDate>Fri, 19 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hua8c16de7726cc20d06ca0226f429b24a_231051_512x512_fill_lanczos_center_3.png</url>
       <title>EMICC Group</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Congratulations to Prof. Wenchao Yi for Swarm and Evolutionary Computation Paper Acceptance</title>
+      <link>/post/21-11-19-sec-accepted-yi/</link>
+      <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/post/21-11-19-sec-accepted-yi/</guid>
+      <description>&lt;p&gt;Congratulations to Prof. Wenchao Yi for her paper was accepted by Swarm and Evolutionary Computation.&lt;/p&gt;
+&lt;h3 id=&#34;title&#34;&gt;Title&lt;/h3&gt;
+&lt;p&gt;Adaptive differential evolution with ensembling operators for continuous optimization problems&lt;/p&gt;
+&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;Differential evolution is one of the most popular evolutionary algorithms for continuous optimization. In this paper, we introduce a new algorithm named the adaptive differential evolution with ensembling populations. In the proposed algorithm, two sets of mutation and crossover operators are utilized to generate offspring to better balance the exploitation and exploration abilities of the algorithm. Besides, an adaptive parameter control strategy is integrated to dynamically adjust the parameter setting of the algorithm so as to further improve the search efficacy. In the experimental studies, it is demonstrated that the proposed algorithm presents competitive performance on benchmark functions as well as on the real-world wireless sensor localization application, in terms of global search ability and search efficiency.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Congratulations to Prof. Zhi Pei for Service Science Paper Acceptance</title>
