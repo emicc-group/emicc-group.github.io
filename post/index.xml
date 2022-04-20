@@ -5,12 +5,23 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright><lastBuildDate>Fri, 19 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright><lastBuildDate>Wed, 08 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hua8c16de7726cc20d06ca0226f429b24a_231051_512x512_fill_lanczos_center_3.png</url>
       <title>Latest News</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>恭喜裴植老师当选IEEE T-ASE编委</title>
+      <link>/post/21-12-08-tase-ae-pei/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/post/21-12-08-tase-ae-pei/</guid>
+      <description>&lt;p&gt;恭喜裴植老师当选IEEE Transactions on Automation Science and Engineering编委&lt;/p&gt;
+&lt;p&gt;    团队教师裴植经IEEE机器人与自动化学会 (IEEE Robotics and Automation Society) 评选成为该学会旗舰期刊IEEE Transactions on Automation Science and Engineering的Associate Editor。同期入选的还有包括美国密西根大学、意大利国家研究院、韩国KAIST、西班牙哈恩大学、清华大学、香港中文大学的教授及研究人员。本次当选IEEE汇刊编委（AE）体现学院整体研究工作水平得到了国际学术组织的肯定，也表明学院在年轻教师培养方面成效斐然，青年教师的学术影响力得到显著提升。&lt;/p&gt;
+&lt;p&gt;    IEEE 自动化科学与工程汇刊 (T-ASE) 自2004年7月起每季度出版一次，其与兄弟期刊 IEEE 机器人学汇刊 (T-RO) 由电气和电子工程师协会出版，是IEEE 机器人与自动化学会的旗舰刊物。IEEE 自动化科学与工程汇刊 (T-ASE) 发布机器人与自动化科学领域新的抽象概念、算法、理论、模型、系统和案例研究，可应用于各行各业，以显着提高社会的效率、质量、生产力和可靠性。IEEE T-ASE是国际知名期刊，2020年影响因子为5.083，也是CCF-B类重要期刊。&lt;/p&gt;
+&lt;p&gt;    裴植老师自2011年起在我院任教至今，研究方向为制造系统建模与分析，智慧城市物流系统设计。研究成果获中国商业联合会科学技术特等奖、吴文俊人工智能科学技术二等奖。主持多项国家与省自然科学基金项目，发表SCI/EI检索论文40余篇，其中ESI高被引论文1篇。现任IEEE可持续生产及自动化技术委员委员(TC Member)，美国数学评论(Mathematical Reviews)评论员，全国机械工程学会生产系统专业委员会委员，中国运筹学会行为运筹与管理分会理事，中国人工智能学会自然计算与数字智能城市专委会委员。目前研究成果已发表于European Journal of Operational Research、Annals of Operations Research、Omega、Service Science、IEEE Transactions on Automation Science and Engineering、Computers &amp;amp; Operations Research以及Information Sciences等国际学术期刊。&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Congratulations to Prof. Wenchao Yi for Swarm and Evolutionary Computation Paper Acceptance</title>

@@ -5,12 +5,20 @@
     <link>/author/jiansha-lu/</link>
       <atom:link href="/author/jiansha-lu/index.xml" rel="self" type="application/rss+xml" />
     <description>Jiansha Lu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright><lastBuildDate>Sat, 21 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright><lastBuildDate>Wed, 20 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hua8c16de7726cc20d06ca0226f429b24a_231051_512x512_fill_lanczos_center_3.png</url>
       <title>Jiansha Lu</title>
       <link>/author/jiansha-lu/</link>
     </image>
+    
+    <item>
+      <title>Adaptive differential evolution with ensembling operators for continuous optimization problems</title>
+      <link>/publication/yi-2021-adaptive/</link>
+      <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/yi-2021-adaptive/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ε Constrained differential evolution using halfspace partition for optimization problems</title>

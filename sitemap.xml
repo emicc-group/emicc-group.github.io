@@ -2,19 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/post/21-11-19-sec-accepted-yi/</loc>
-    <lastmod>2021-11-19T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/</loc>
-    <lastmod>2021-11-19T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/</loc>
+    <lastmod>2021-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/21-12-08-tase-ae-pei/</loc>
+    <lastmod>2021-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/21-11-19-sec-accepted-yi/</loc>
     <lastmod>2021-11-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication-type/2/</loc>
     <lastmod>2021-09-03T14:19:14+08:00</lastmod>
   </url><url>
+    <loc>/publication/yi-2021-adaptive/</loc>
+    <lastmod>2021-09-03T14:19:13+08:00</lastmod>
+  </url><url>
     <loc>/authors/</loc>
+    <lastmod>2021-09-03T14:19:14+08:00</lastmod>
+  </url><url>
+    <loc>/author/jiansha-lu/</loc>
+    <lastmod>2021-09-03T14:19:14+08:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2021-09-03T14:19:14+08:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2021-09-03T14:19:14+08:00</lastmod>
+  </url><url>
+    <loc>/author/wenchao-yi/</loc>
+    <lastmod>2021-09-03T14:19:14+08:00</lastmod>
+  </url><url>
+    <loc>/author/yong-chen/</loc>
+    <lastmod>2021-09-03T14:19:14+08:00</lastmod>
+  </url><url>
+    <loc>/author/zhi-pei/</loc>
     <lastmod>2021-09-03T14:19:14+08:00</lastmod>
   </url><url>
     <loc>/post/21-09-17-ss-accpted-xu/</loc>
@@ -22,12 +46,6 @@
   </url><url>
     <loc>/publication/pei-2021-dynamic/</loc>
     <lastmod>2021-09-03T14:19:11+08:00</lastmod>
-  </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2021-09-03T14:19:14+08:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2021-09-03T14:19:14+08:00</lastmod>
   </url><url>
     <loc>/author/qiao-chu-he/</loc>
     <lastmod>2021-09-03T14:19:11+08:00</lastmod>
@@ -37,9 +55,6 @@
   </url><url>
     <loc>/author/xu-dai/</loc>
     <lastmod>2021-09-03T14:19:11+08:00</lastmod>
-  </url><url>
-    <loc>/author/zhi-pei/</loc>
-    <lastmod>2021-09-03T14:19:14+08:00</lastmod>
   </url><url>
     <loc>/event/ga/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
@@ -176,12 +191,6 @@
     <loc>/author/qiuxia-jin/</loc>
     <lastmod>2021-09-03T14:19:11+08:00</lastmod>
   </url><url>
-    <loc>/author/wenchao-yi/</loc>
-    <lastmod>2021-09-03T14:19:14+08:00</lastmod>
-  </url><url>
-    <loc>/author/yong-chen/</loc>
-    <lastmod>2021-09-03T14:19:14+08:00</lastmod>
-  </url><url>
     <loc>/author/ziwen-cheng/</loc>
     <lastmod>2021-09-03T14:19:11+08:00</lastmod>
   </url><url>
@@ -195,9 +204,6 @@
     <lastmod>2021-09-03T14:19:14+08:00</lastmod>
   </url><url>
     <loc>/publication/zhang-2021-pricing/</loc>
-    <lastmod>2021-09-03T14:19:14+08:00</lastmod>
-  </url><url>
-    <loc>/author/jiansha-lu/</loc>
     <lastmod>2021-09-03T14:19:14+08:00</lastmod>
   </url><url>
     <loc>/author/liang-gao/</loc>
