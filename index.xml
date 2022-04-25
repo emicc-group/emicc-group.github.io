@@ -5,12 +5,32 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>EMICC Group</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright><lastBuildDate>Wed, 08 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright><lastBuildDate>Mon, 25 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hua8c16de7726cc20d06ca0226f429b24a_231051_512x512_fill_lanczos_center_3.png</url>
       <title>EMICC Group</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Congratulations to Yujuan Wang and Peiqi Yang for Paper Acceptance</title>
+      <link>/post/22-04-25-ijpr-accepted-wang/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>/post/22-04-25-ijpr-accepted-wang/</guid>
+      <description>&lt;p&gt;恭喜王玉娟、杨佩琪投稿IJPR的论文被接收。&lt;/p&gt;
+&lt;h3 id=&#34;title&#34;&gt;Title&lt;/h3&gt;
+&lt;p&gt;Energy consumption control in the two-machine Bernoulli serial production line with setup and idleness&lt;/p&gt;
+&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;In recent years, the topic of sustainable manufacturing system design with energy saving features has received increasing attention. For a typical production line setting, the machines are subject to random breakdown and restart besides blockage and starvation, and they are usually connected via buffer areas with finite capacity. In the present study, the energy consumption of the serial production line with two Bernoulli machines is considered, with an aim to minimize the total energy consumption under a desired production rate. The energy consumption of the two machine system is composed of the energy needed to set up, for keeping machines idle, and for actual manufacturing. In order to minimize the total energy expenditure, a nonlinear fractional polynomial optimization model is constructed, which is first converted to a nonlinear polynomial optimization problem. Then the property of the total energy cost is analyzed via the sum of squares (SOS) method. To speed up the solving process, a new heuristic approach named ECS-algorithm is proposed considering the monotonicity and local optimality of the energy cost function. Finally, by presenting optimal configurations of the production line with different throughputs, buffer capacities, and energy parameters, a simulation based study is performed to validate the SOS and ECS algorithms.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Energy consumption control in the two-machine Bernoulli serial production line with setup and idleness</title>
+      <link>/publication/pei-2022-energy/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/pei-2022-energy/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>恭喜裴植老师当选IEEE T-ASE编委</title>
