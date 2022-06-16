@@ -99,5 +99,17 @@
 &lt;p&gt;Frequency competition is critical for a full-service airline in gaining market share, and adopting a proper strategy can improve an airline’s profits. This study proposes a new equilibrium programming model with flow balance to address frequency competition on airports network with time slot constraints. We first show that a pure-strategy Nash equilibrium may not always exist, and thus forming a pure strategy profile in frequency competition among airlines may naturally lead to deviation from current frequency. Therefore, we formulate the problem as a programming model with a mixed-strategy Nash equilibrium. To avoid shocks from dramatic frequency changes across the network, airlines tend to fine-tune frequencies on select segments during each adjustment. We propose a procedure to generate a computationally tractable amount of representative strategies from a finite set of feasible strategies to demonstrate mixed-strategy Nash equilibrium. We conduct an empirical analysis using an example in which industry profitability increased by as much as 7.89%. We then extend the model to formulate frequency competition among metal-neutral alliances. The results show that forming metal-neutral alliances can improve total industry profits by 10.59%. In particular, a sensitivity analysis with real data on the tolerance of flow imbalance demonstrates that deducting the potential costs due to the relaxation of flow balance between congested airports may earn additional total industry profits in a frequency competition.&lt;/p&gt;</description>
     </item>
     
+    <item>
+      <title>Congratulations to Fangtao and Kebiao Weng for Paper Acceptance</title>
+      <link>/post/22-06-16-t-ase-accepted-fang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/post/22-06-16-t-ase-accepted-fang/</guid>
+      <description>&lt;p&gt;恭喜方涛、翁克彪投稿T-ASE的论文被接收。&lt;/p&gt;
+&lt;h3 id=&#34;title&#34;&gt;Title&lt;/h3&gt;
+&lt;p&gt;Urban On-demand Delivery via Autonomous Aerial Mobility: Formulation and Exact Algorithm&lt;/p&gt;
+&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;The implementation of the autonomous unmanned aerial mobility is a game changer for the on-demand delivery service in the crowded urban setting. In this study, the first of its kind commercial unmanned aerial vehicle (UAV) urban delivery program in China is targeted. Different from the traditional ground pickup and delivery services, the aerial mode considers not only the time window constraints, but also the spatial conflicts incurred during the take-off and landing operations of UAVs. To obtain the optimal flying routes of the focused problem, a mixed integer programming model is formulated. Due to its inherent complexity, the optimal schedule cannot be attained within acceptable time via the off-the-shelf solvers. To help speed up the solving process, a branch-and-cut based exact algorithm is proposed, together with a series of customized valid inequalities. To further accelerate, a greedy insertion heuristic is designed to secure high-quality initial solutions. In the numerical section, it is observed that the algorithm proposed in this paper can help solve the real-life on-demand UAV delivery problem to near optimum (within 5% optimality gap) within reasonable computation time (in 5 minutes).&lt;/p&gt;</description>
+    </item>
+    
   </channel>
 </rss>
