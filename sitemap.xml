@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/post/22-06-16-t-ase-accepted-fang/</loc>
+    <lastmod>2022-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2022-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/</loc>
+    <lastmod>2022-06-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/publication-type/2/</loc>
     <lastmod>2021-09-03T14:19:14+08:00</lastmod>
   </url><url>
@@ -11,14 +20,8 @@
     <loc>/post/22-04-25-ijpr-accepted-wang/</loc>
     <lastmod>2022-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2022-04-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/publication/pei-2022-energy/</loc>
     <lastmod>2021-09-03T14:19:11+08:00</lastmod>
-  </url><url>
-    <loc>/post/</loc>
-    <lastmod>2022-04-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication_types/</loc>
     <lastmod>2021-09-03T14:19:14+08:00</lastmod>
@@ -378,8 +381,6 @@
     <loc>/author/chen-yong/</loc>
   </url><url>
     <loc>/author/cheng-ziwen/</loc>
-  </url><url>
-    <loc>/post/22-06-16-t-ase-accepted-fang/</loc>
   </url><url>
     <loc>/author/cui-senbing/</loc>
   </url><url>

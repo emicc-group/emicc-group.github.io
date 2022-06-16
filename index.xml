@@ -5,12 +5,24 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>EMICC Group</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright><lastBuildDate>Mon, 25 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright><lastBuildDate>Thu, 16 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hua8c16de7726cc20d06ca0226f429b24a_231051_512x512_fill_lanczos_center_3.png</url>
       <title>EMICC Group</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Congratulations to Fangtao and Kebiao Weng for Paper Acceptance</title>
+      <link>/post/22-06-16-t-ase-accepted-fang/</link>
+      <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/post/22-06-16-t-ase-accepted-fang/</guid>
+      <description>&lt;p&gt;恭喜方涛、翁克彪投稿T-ASE的论文被接收。&lt;/p&gt;
+&lt;h3 id=&#34;title&#34;&gt;Title&lt;/h3&gt;
+&lt;p&gt;Urban On-demand Delivery via Autonomous Aerial Mobility: Formulation and Exact Algorithm&lt;/p&gt;
+&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;The implementation of the autonomous unmanned aerial mobility is a game changer for the on-demand delivery service in the crowded urban setting. In this study, the first of its kind commercial unmanned aerial vehicle (UAV) urban delivery program in China is targeted. Different from the traditional ground pickup and delivery services, the aerial mode considers not only the time window constraints, but also the spatial conflicts incurred during the take-off and landing operations of UAVs. To obtain the optimal flying routes of the focused problem, a mixed integer programming model is formulated. Due to its inherent complexity, the optimal schedule cannot be attained within acceptable time via the off-the-shelf solvers. To help speed up the solving process, a branch-and-cut based exact algorithm is proposed, together with a series of customized valid inequalities. To further accelerate, a greedy insertion heuristic is designed to secure high-quality initial solutions. In the numerical section, it is observed that the algorithm proposed in this paper can help solve the real-life on-demand UAV delivery problem to near optimum (within 5% optimality gap) within reasonable computation time (in 5 minutes).&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Congratulations to Yujuan Wang and Peiqi Yang for Paper Acceptance</title>
@@ -470,18 +482,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/people/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Congratulations to Fangtao and Kebiao Weng for Paper Acceptance</title>
-      <link>/post/22-06-16-t-ase-accepted-fang/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/post/22-06-16-t-ase-accepted-fang/</guid>
-      <description>&lt;p&gt;恭喜方涛、翁克彪投稿T-ASE的论文被接收。&lt;/p&gt;
-&lt;h3 id=&#34;title&#34;&gt;Title&lt;/h3&gt;
-&lt;p&gt;Urban On-demand Delivery via Autonomous Aerial Mobility: Formulation and Exact Algorithm&lt;/p&gt;
-&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
-&lt;p&gt;The implementation of the autonomous unmanned aerial mobility is a game changer for the on-demand delivery service in the crowded urban setting. In this study, the first of its kind commercial unmanned aerial vehicle (UAV) urban delivery program in China is targeted. Different from the traditional ground pickup and delivery services, the aerial mode considers not only the time window constraints, but also the spatial conflicts incurred during the take-off and landing operations of UAVs. To obtain the optimal flying routes of the focused problem, a mixed integer programming model is formulated. Due to its inherent complexity, the optimal schedule cannot be attained within acceptable time via the off-the-shelf solvers. To help speed up the solving process, a branch-and-cut based exact algorithm is proposed, together with a series of customized valid inequalities. To further accelerate, a greedy insertion heuristic is designed to secure high-quality initial solutions. In the numerical section, it is observed that the algorithm proposed in this paper can help solve the real-life on-demand UAV delivery problem to near optimum (within 5% optimality gap) within reasonable computation time (in 5 minutes).&lt;/p&gt;</description>
     </item>
     
   </channel>
