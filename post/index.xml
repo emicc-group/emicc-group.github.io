@@ -5,12 +5,24 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright><lastBuildDate>Thu, 16 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright><lastBuildDate>Tue, 19 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hua8c16de7726cc20d06ca0226f429b24a_231051_512x512_fill_lanczos_center_3.png</url>
       <title>Latest News</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>团队邀请清华大学工业工程系李彦夫教授带来线下报告：《复杂工程系统故障预测与健康管理方法及实践》</title>
+      <link>/post/22-07-19-lecture-liyanfu/</link>
+      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/post/22-07-19-lecture-liyanfu/</guid>
+      <description>&lt;p&gt;7月19日上午10：00，清华大学工业工程系李彦夫教授莅临浙江工业大学机械工程学院，于机械楼D526为广大师生带来主题为《复杂工程系统故障预测与健康管理方法及实践》的精彩报告。&lt;/p&gt;
+&lt;h3 id=&#34;主题&#34;&gt;主题&lt;/h3&gt;
+&lt;p&gt;《复杂工程系统故障预测与健康管理方法及实践》&lt;/p&gt;
+&lt;h3 id=&#34;专家介绍&#34;&gt;专家介绍&lt;/h3&gt;
+&lt;p&gt;李彦夫，清华大学工业工程系教授，清华大学质量与可靠性研究院院长。长期致力于系统可靠性、故障预测与健康管理方法的研究，取得了一系列原创性学术成果。论文发表在《IEEE Transactions》系列、《ACM Transactions》等高水平期刊，总被引用3200余次，H-index = 32。国家特聘专家（青年），Elsevier 2019-2021年中国高被引学者，IEEE和IISE高级会员。主持国家自然科学基金重点项目、科技部国家重点研发计划课题等多个纵向项目，授权专利5项，与华为等头部企业开展长期合作研究，获得了较为明显的社会经济效益，获得省部级科技进步2等奖1项。担任可靠性旗舰期刊《IEEE Transactions on Reliability》副主编、《IEEE Transactions on Industrial Informatics》、《Reliability Engineering &amp;amp; Systems Safety》客座编辑、中国系统工程学会系统可靠性专委会副主任委员、多个知名国际会议联合主席、中国质量奖评审专家。&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Congratulations to Fangtao and Kebiao Weng for Paper Acceptance</title>
