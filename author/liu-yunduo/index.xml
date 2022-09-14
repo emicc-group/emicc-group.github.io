@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Liu Yunduo | EMICC Group</title>
+    <link>/author/liu-yunduo/</link>
+      <atom:link href="/author/liu-yunduo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Liu Yunduo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright>
+    <image>
+      <url>/media/icon_hua8c16de7726cc20d06ca0226f429b24a_231051_512x512_fill_lanczos_center_3.png</url>
+      <title>Liu Yunduo</title>
+      <link>/author/liu-yunduo/</link>
+    </image>
+    
+  </channel>
+</rss>
