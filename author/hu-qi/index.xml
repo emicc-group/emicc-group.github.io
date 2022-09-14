@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hu Qi | EMICC Group</title>
+    <link>/author/hu-qi/</link>
+      <atom:link href="/author/hu-qi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hu Qi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright>
+    <image>
+      <url>/author/hu-qi/avatar_hu8ab25ebf0ce10fceada01eed90c40871_1222058_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Hu Qi</title>
+      <link>/author/hu-qi/</link>
+    </image>
+    
+  </channel>
+</rss>
