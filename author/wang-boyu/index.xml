@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wang Boyu | EMICC Group</title>
+    <link>/author/wang-boyu/</link>
+      <atom:link href="/author/wang-boyu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wang Boyu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright>
+    <image>
+      <url>/author/wang-boyu/avatar_hu741cdb22ff830df1d4d0178aed06ea92_85455_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Wang Boyu</title>
+      <link>/author/wang-boyu/</link>
+    </image>
+    
+  </channel>
+</rss>
