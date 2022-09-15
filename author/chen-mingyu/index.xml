@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chen Mingyu | EMICC Group</title>
+    <link>/author/chen-mingyu/</link>
+      <atom:link href="/author/chen-mingyu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chen Mingyu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright>
+    <image>
+      <url>/author/chen-mingyu/avatar_hub4a3681d41c8064be86e8a070cd5286c_12379_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Chen Mingyu</title>
+      <link>/author/chen-mingyu/</link>
+    </image>
+    
+  </channel>
+</rss>
