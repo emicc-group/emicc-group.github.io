@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Han Kai | EMICC Group</title>
+    <link>/author/han-kai/</link>
+      <atom:link href="/author/han-kai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Han Kai</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright>
+    <image>
+      <url>/author/han-kai/avatar_hu56e4b38cba19d42b1d000e0b1cf73a5f_219942_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Han Kai</title>
+      <link>/author/han-kai/</link>
+    </image>
+    
+  </channel>
+</rss>
