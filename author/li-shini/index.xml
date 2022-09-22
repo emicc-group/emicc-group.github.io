@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Li Shini | EMICC Group</title>
+    <link>/author/li-shini/</link>
+      <atom:link href="/author/li-shini/index.xml" rel="self" type="application/rss+xml" />
+    <description>Li Shini</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright>
+    <image>
+      <url>/author/li-shini/avatar_hucad87b6859cf743fa4351fc6cee18dcc_31531_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Li Shini</title>
+      <link>/author/li-shini/</link>
+    </image>
+    
+  </channel>
+</rss>
