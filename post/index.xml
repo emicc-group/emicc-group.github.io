@@ -5,12 +5,24 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright><lastBuildDate>Tue, 19 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright><lastBuildDate>Sat, 08 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hua8c16de7726cc20d06ca0226f429b24a_231051_512x512_fill_lanczos_center_3.png</url>
       <title>Latest News</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Congratulations to PeiZhi and FangTao for their papers published in CIE.</title>
+      <link>/post/22-10-08-cie-published-fang/</link>
+      <pubDate>Sat, 08 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/post/22-10-08-cie-published-fang/</guid>
+      <description>&lt;p&gt;恭喜裴植老师、方涛投稿CIE的论文发表。&lt;/p&gt;
+&lt;h3 id=&#34;title&#34;&gt;Title&lt;/h3&gt;
+&lt;p&gt;Robust service network design problem under uncertain demand&lt;/p&gt;
+&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;This study examines a robust service network design problem, which aims to select transportation services and distribute commodity flow for consolidation carriers. A robust optimization approach with a penalty limit constraint is proposed to formulate the problem. Furthermore, to make a balance between objective value and penalty violation, we introduce the concept of robustness index. A &lt;a href=&#34;https://www.sciencedirect.com/topics/mathematics/decomposition-method&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;decomposition method&lt;/a&gt; with valid cuts is proposed to solve the problem. Numerical results show that the efficiency of the proposed algorithm. A real data set released by a logistics company in east China is imported to validate the robust optimization approach, which yields a robust parcel delivery network design with satisfying out-of-sample performances.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>团队邀请清华大学工业工程系李彦夫教授带来线下报告：《复杂工程系统故障预测与健康管理方法及实践》</title>
