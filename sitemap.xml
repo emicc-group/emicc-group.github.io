@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/publication/pei-2022-ejor/</loc>
-    <lastmod>2022-11-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/publication-type/2/</loc>
     <lastmod>2022-11-09T00:00:00+00:00</lastmod>
   </url><url>
@@ -27,6 +24,9 @@
     <lastmod>2022-11-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/</loc>
+    <lastmod>2022-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/pei-2022-ejor/</loc>
     <lastmod>2022-11-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/zhi-pei/</loc>
