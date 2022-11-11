@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>EMICC Group</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright><lastBuildDate>Sat, 08 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright><lastBuildDate>Wed, 09 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hua8c16de7726cc20d06ca0226f429b24a_231051_512x512_fill_lanczos_center_3.png</url>
       <title>EMICC Group</title>
@@ -13,7 +13,15 @@
     </image>
     
     <item>
-      <title>Congratulations to PeiZhi and FangTao for their papers published in CIE.</title>
+      <title></title>
+      <link>/publication/pei-2022-ejor/</link>
+      <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/pei-2022-ejor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Congratulations to PeiZhi and FangTao for their paper published in CIE.</title>
       <link>/post/22-10-08-cie-published-fang/</link>
       <pubDate>Sat, 08 Oct 2022 00:00:00 +0000</pubDate>
       <guid>/post/22-10-08-cie-published-fang/</guid>
@@ -25,10 +33,42 @@
     </item>
     
     <item>
+      <title>Congratulations to Zhi Pei and Haimin Lu for their paper published in EJOR.</title>
+      <link>/post/22-10-08-ejor-published-lu/</link>
+      <pubDate>Sat, 08 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/post/22-10-08-ejor-published-lu/</guid>
+      <description>&lt;p&gt;恭喜裴植老师、陆海旻投稿EJOR的论文发表。&lt;/p&gt;
+&lt;h3 id=&#34;title&#34;&gt;Title&lt;/h3&gt;
+&lt;p&gt;Single machine scheduling with release dates: A distributionally robust approach&lt;/p&gt;
+&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;In the present study, a single machine scheduling problem with job release dates is considered, where the job processing time is depicted by an ambiguity set, with the mean, the mean absolute deviation, and the support set information given. To the best of our knowledge, this is the first time that a distributionally robust optimization method is applied to the single machine scheduling with release dates. Based on the risk attitude of the decision maker, two distributionally robust optimization models are proposed, namely, the risk-neutral and risk-averse scheduling. The two models concern with the worst-case performance and the robust conditional value-at-risk with respect to the total flow time, respectively. Since the proposed robust optimization models are intractable in nature, we reformulate them as two separate mixed-integer linear programming models, which can then be solved via off-the-shelf solvers. Interestingly, it is proved that the mean absolute deviation can be ignored in the risk-neutral robust model. Thus a more succinct reformulation is constructed, which can be rapidly solved to optimum. Furthermore, extensive numerical experiments are performed with the stochastic programming model as a benchmark. And it is observed that the risk-averse model outperforms the others on both the average and worst-case metrics in most cases. Meanwhile, the risk-neutral model is more preferable on the average metric when the jobs are sparsely released.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Robust service network design problem under uncertain demand</title>
       <link>/publication/pei-2022-robust/</link>
       <pubDate>Sat, 08 Oct 2022 00:00:00 +0000</pubDate>
       <guid>/publication/pei-2022-robust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Congratulations to Zhi Pei and Peiqi Yang for their paper published in Sustainability.</title>
+      <link>/post/22-10-08-sustainability-published-yang/</link>
+      <pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/post/22-10-08-sustainability-published-yang/</guid>
+      <description>&lt;p&gt;恭喜裴植老师、杨佩琪投稿&lt;em&gt;Sustainability&lt;/em&gt;的论文发表。&lt;/p&gt;
+&lt;h3 id=&#34;title&#34;&gt;Title&lt;/h3&gt;
+&lt;p&gt;Energy-Saving Manufacturing System Design with Two Geometric Machines&lt;/p&gt;
+&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;In recent years, due to increasing energy costs and deteriorating environmental conditions, manufacturing enterprises have become more concerned with energy efficiency. This paper is dedicated to minimizing energy consumption while maintaining the target productivity of a two-machine geometric serial line. To address this problem, we propose a nonlinear model under productivity constraints, where the system energy consumption consists of three components, namely, the setup, the idle, and the normal working energy consumption. By analyzing the properties of the energy consumption function, a new heuristic method, i.e., the energy consumption minimization (ECM) algorithm, is proposed to obtain the optimal solution. In addition, we extend the formulation to further investigate the energy saving problem with varied buffer capacities and propose an energy-saving (ES) algorithm to solve it based on the problem structure. Furthermore, the effectiveness of the algorithms is verified by designing numerical examples, and the effects of energy consumption parameters, buffer capacity, target productivity, and breakdown probabilities on the total energy consumption and optimal solution are presented.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Energy-Saving Manufacturing System Design with Two Geometric Machines</title>
+      <link>/publication/pei-2022-sustainability/</link>
+      <pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/pei-2022-sustainability/</guid>
       <description></description>
     </item>
     
