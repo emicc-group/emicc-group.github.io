@@ -21,6 +21,18 @@
     </item>
     
     <item>
+      <title>Congratulations to Zhi Pei and Haimin Lu for their paper published in EJOR.</title>
+      <link>/post/22-10-08-ejor-published-lu/</link>
+      <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/post/22-10-08-ejor-published-lu/</guid>
+      <description>&lt;p&gt;恭喜裴植老师、陆海旻投稿EJOR的论文发表。&lt;/p&gt;
+&lt;h3 id=&#34;title&#34;&gt;Title&lt;/h3&gt;
+&lt;p&gt;Single machine scheduling with release dates: A distributionally robust approach&lt;/p&gt;
+&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;In the present study, a single machine scheduling problem with job release dates is considered, where the job processing time is depicted by an ambiguity set, with the mean, the mean absolute deviation, and the support set information given. To the best of our knowledge, this is the first time that a distributionally robust optimization method is applied to the single machine scheduling with release dates. Based on the risk attitude of the decision maker, two distributionally robust optimization models are proposed, namely, the risk-neutral and risk-averse scheduling. The two models concern with the worst-case performance and the robust conditional value-at-risk with respect to the total flow time, respectively. Since the proposed robust optimization models are intractable in nature, we reformulate them as two separate mixed-integer linear programming models, which can then be solved via off-the-shelf solvers. Interestingly, it is proved that the mean absolute deviation can be ignored in the risk-neutral robust model. Thus a more succinct reformulation is constructed, which can be rapidly solved to optimum. Furthermore, extensive numerical experiments are performed with the stochastic programming model as a benchmark. And it is observed that the risk-averse model outperforms the others on both the average and worst-case metrics in most cases. Meanwhile, the risk-neutral model is more preferable on the average metric when the jobs are sparsely released.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Congratulations to PeiZhi and FangTao for their paper published in CIE.</title>
       <link>/post/22-10-08-cie-published-fang/</link>
       <pubDate>Sat, 08 Oct 2022 00:00:00 +0000</pubDate>
@@ -30,18 +42,6 @@
 &lt;p&gt;Robust service network design problem under uncertain demand&lt;/p&gt;
 &lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
 &lt;p&gt;This study examines a robust service network design problem, which aims to select transportation services and distribute commodity flow for consolidation carriers. A robust optimization approach with a penalty limit constraint is proposed to formulate the problem. Furthermore, to make a balance between objective value and penalty violation, we introduce the concept of robustness index. A &lt;a href=&#34;https://www.sciencedirect.com/topics/mathematics/decomposition-method&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;decomposition method&lt;/a&gt; with valid cuts is proposed to solve the problem. Numerical results show that the efficiency of the proposed algorithm. A real data set released by a logistics company in east China is imported to validate the robust optimization approach, which yields a robust parcel delivery network design with satisfying out-of-sample performances.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Congratulations to Zhi Pei and Haimin Lu for their paper published in EJOR.</title>
-      <link>/post/22-10-08-ejor-published-lu/</link>
-      <pubDate>Sat, 08 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>/post/22-10-08-ejor-published-lu/</guid>
-      <description>&lt;p&gt;恭喜裴植老师、陆海旻投稿EJOR的论文发表。&lt;/p&gt;
-&lt;h3 id=&#34;title&#34;&gt;Title&lt;/h3&gt;
-&lt;p&gt;Single machine scheduling with release dates: A distributionally robust approach&lt;/p&gt;
-&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
-&lt;p&gt;In the present study, a single machine scheduling problem with job release dates is considered, where the job processing time is depicted by an ambiguity set, with the mean, the mean absolute deviation, and the support set information given. To the best of our knowledge, this is the first time that a distributionally robust optimization method is applied to the single machine scheduling with release dates. Based on the risk attitude of the decision maker, two distributionally robust optimization models are proposed, namely, the risk-neutral and risk-averse scheduling. The two models concern with the worst-case performance and the robust conditional value-at-risk with respect to the total flow time, respectively. Since the proposed robust optimization models are intractable in nature, we reformulate them as two separate mixed-integer linear programming models, which can then be solved via off-the-shelf solvers. Interestingly, it is proved that the mean absolute deviation can be ignored in the risk-neutral robust model. Thus a more succinct reformulation is constructed, which can be rapidly solved to optimum. Furthermore, extensive numerical experiments are performed with the stochastic programming model as a benchmark. And it is observed that the risk-averse model outperforms the others on both the average and worst-case metrics in most cases. Meanwhile, the risk-neutral model is more preferable on the average metric when the jobs are sparsely released.&lt;/p&gt;</description>
     </item>
     
     <item>
