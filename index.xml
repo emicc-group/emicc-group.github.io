@@ -73,6 +73,22 @@
     </item>
     
     <item>
+      <title>Effects of game willingness on the evolution of fairness in the ultimatum game</title>
+      <link>/publication/wen-2022-pla/</link>
+      <pubDate>Thu, 21 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/wen-2022-pla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>We Missed You!:A joint optimization strategy of appointment window and reminder sending</title>
+      <link>/publication/wen-2022-cie/</link>
+      <pubDate>Thu, 21 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/wen-2022-cie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>团队邀请清华大学工业工程系李彦夫教授带来线下报告：《复杂工程系统故障预测与健康管理方法及实践》</title>
       <link>/post/22-07-19-lecture-liyanfu/</link>
       <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
@@ -102,6 +118,14 @@
 &lt;p&gt;Urban On-demand Delivery via Autonomous Aerial Mobility: Formulation and Exact Algorithm&lt;/p&gt;
 &lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
 &lt;p&gt;The implementation of the autonomous unmanned aerial mobility is a game changer for the on-demand delivery service in the crowded urban setting. In this study, the first of its kind commercial unmanned aerial vehicle (UAV) urban delivery program in China is targeted. Different from the traditional ground pickup and delivery services, the aerial mode considers not only the time window constraints, but also the spatial conflicts incurred during the take-off and landing operations of UAVs. To obtain the optimal flying routes of the focused problem, a mixed integer programming model is formulated. Due to its inherent complexity, the optimal schedule cannot be attained within acceptable time via the off-the-shelf solvers. To help speed up the solving process, a branch-and-cut based exact algorithm is proposed, together with a series of customized valid inequalities. To further accelerate, a greedy insertion heuristic is designed to secure high-quality initial solutions. In the numerical section, it is observed that the algorithm proposed in this paper can help solve the real-life on-demand UAV delivery problem to near optimum (within 5% optimality gap) within reasonable computation time (in 5 minutes).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dynamic pricing of differentiated products with incomplete information based on reinforcement learning</title>
+      <link>/publication/wen-2022-cim/</link>
+      <pubDate>Sat, 21 May 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/wen-2022-cim/</guid>
+      <description></description>
     </item>
     
     <item>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xianjie Yuan | EMICC Group</title>
+    <link>/author/xianjie-yuan/</link>
+      <atom:link href="/author/xianjie-yuan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xianjie Yuan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright><lastBuildDate>Thu, 21 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua8c16de7726cc20d06ca0226f429b24a_231051_512x512_fill_lanczos_center_3.png</url>
+      <title>Xianjie Yuan</title>
+      <link>/author/xianjie-yuan/</link>
+    </image>
+    
+    <item>
+      <title>Effects of game willingness on the evolution of fairness in the ultimatum game</title>
+      <link>/publication/wen-2022-pla/</link>
+      <pubDate>Thu, 21 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/wen-2022-pla/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
