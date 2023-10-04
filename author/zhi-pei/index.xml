@@ -14,9 +14,9 @@
     
     <item>
       <title>Single machine scheduling with release dates A distributionally robust approach</title>
-      <link>/publication/pei-2022-ejor/</link>
+      <link>/publication/pei-2022-singlemachine-ejor/</link>
       <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/pei-2022-ejor/</guid>
+      <guid>/publication/pei-2022-singlemachine-ejor/</guid>
       <description></description>
     </item>
     
@@ -169,6 +169,22 @@
       <link>/publication/pei-2013-rational/</link>
       <pubDate>Tue, 24 Jul 2012 00:00:00 +0000</pubDate>
       <guid>/publication/pei-2013-rational/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A distributionally robust approach for the two-machine permutation flow shop scheduling</title>
+      <link>/publication/pei-2023-distributionally/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/pei-2023-distributionally/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When drone delivery meets human courier: A co-sourcing perspective</title>
+      <link>/publication/pei-2023-cosourcing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/pei-2023-cosourcing/</guid>
       <description></description>
     </item>
     
