@@ -5,12 +5,20 @@
     <link>/author/changchun-liu/</link>
       <atom:link href="/author/changchun-liu/index.xml" rel="self" type="application/rss+xml" />
     <description>Changchun Liu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright><lastBuildDate>Sat, 08 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright><lastBuildDate>Mon, 18 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hua8c16de7726cc20d06ca0226f429b24a_231051_512x512_fill_lanczos_center_3.png</url>
       <title>Changchun Liu</title>
       <link>/author/changchun-liu/</link>
     </image>
+    
+    <item>
+      <title>When drone delivery meets human courier: A co-sourcing perspective</title>
+      <link>/publication/pei-2023-cosourcing/</link>
+      <pubDate>Mon, 18 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/pei-2023-cosourcing/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Robust service network design problem under uncertain demand</title>
@@ -25,14 +33,6 @@
       <link>/publication/pei-2021-managing/</link>
       <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
       <guid>/publication/pei-2021-managing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>When drone delivery meets human courier: A co-sourcing perspective</title>
-      <link>/publication/pei-2023-cosourcing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/publication/pei-2023-cosourcing/</guid>
       <description></description>
     </item>
     

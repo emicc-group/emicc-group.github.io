@@ -5,12 +5,20 @@
     <link>/author/haimin-lu/</link>
       <atom:link href="/author/haimin-lu/index.xml" rel="self" type="application/rss+xml" />
     <description>Haimin Lu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright><lastBuildDate>Wed, 09 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright><lastBuildDate>Mon, 10 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hua8c16de7726cc20d06ca0226f429b24a_231051_512x512_fill_lanczos_center_3.png</url>
       <title>Haimin Lu</title>
       <link>/author/haimin-lu/</link>
     </image>
+    
+    <item>
+      <title>A distributionally robust approach for the two-machine permutation flow shop scheduling</title>
+      <link>/publication/pei-2023-distributionally/</link>
+      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/pei-2023-distributionally/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Single machine scheduling with release dates A distributionally robust approach</title>
@@ -25,14 +33,6 @@
       <link>/publication/pei-2021-target/</link>
       <pubDate>Thu, 19 Aug 2021 00:00:00 +0000</pubDate>
       <guid>/publication/pei-2021-target/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A distributionally robust approach for the two-machine permutation flow shop scheduling</title>
-      <link>/publication/pei-2023-distributionally/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/publication/pei-2023-distributionally/</guid>
       <description></description>
     </item>
     
