@@ -4,37 +4,38 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-
-
-
+  
+  
+  
     <meta name="generator" content="Wowchemy 5.2.0 for Hugo" />
+  
 
+  
 
-
-
-
-
-
-
-
-
-
-
-
-
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
 
   <meta name="author" content="EMICC Group" />
 
-
-
-
-
-
+  
+  
+  
+    
+  
   <meta name="description" content="We consider the two-machine permutation flow shop scheduling problem with uncertain job processing time, which is sampled from no specific distribution type. For the ease of discussion, an ambiguity set with a priori mean and support set information is constructed. We then introduce a distributionally robust optimization (DRO) perspective to handle the uncertainty. To the best of our knowledge, this is the first time that a DRO method is applied to this problem setting. Given that the original DRO model is nonlinear and intractable in nature, we first reformulate the inner maximization problem into a linear programming model with a fixed sequence, based on the duality theory and optimality conditions. By including the sequence decision, we further transform it into an equivalent mixed-integer linear programming (MILP) problem via incorporating the valid lower and upper bounds and McCormick inequalities. The obtained MILP could be solved to optimality with the off-the-shelf commercial solvers. In the numerical study, it is demonstrated that the DRO-based model could effectively solve the large scale instances with up to 100 jobs optimally within 30 s. Compared with the SLP, DRO model always triumphs on the worst-case indicator. And as the problem scale increases, the DRO model gradually outperforms the SLP in terms of the Up-90% and Up-75% indicators. Furthermore, the optimal sequence obtained by the deterministic model is less stable than the DRO model, which can enhance the robustness of the manufacturing system against processing uncertainty." />
 
-
+  
   <link rel="alternate" hreflang="en-us" href="/publication/pei-2023-distributionally/" />
 
+  
 
 
 
@@ -42,251 +43,255 @@
 
 
 
+  
 
 
 
 
+  
+  
 
-
-
-
-
-
-
-
+  
+  
+  
     <meta name="theme-color" content="#1565c0" />
+  
 
+  
+  
 
-
-
-
-
-
-
-
-
-
+  
+  
+  
+  
+    
+    
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous">
-
+    
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous">
 
+    
+    
+
+    
+    
+    
+      
+    
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
   <link rel="stylesheet" href="/css/wowchemy.a53ee215eb6dcadd1a125dc8098e4c3e.css" />
 
+  
+
+
+
+  
+
+  
+
+  
 
 
 
 
+  
+  
+  
 
+  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  
     <link rel="manifest" href="/index.webmanifest" />
-
+  
 
   <link rel="icon" type="image/png" href="/media/icon_hua8c16de7726cc20d06ca0226f429b24a_231051_32x32_fill_lanczos_center_3.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hua8c16de7726cc20d06ca0226f429b24a_231051_180x180_fill_lanczos_center_3.png" />
 
   <link rel="canonical" href="/publication/pei-2023-distributionally/" />
 
-
-
-
-
-
-
-
-
-
-
-
-
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
   <meta property="twitter:card" content="summary" />
-
+  
   <meta property="og:site_name" content="EMICC Group" />
   <meta property="og:url" content="/publication/pei-2023-distributionally/" />
   <meta property="og:title" content="A distributionally robust approach for the two-machine permutation flow shop scheduling | EMICC Group" />
   <meta property="og:description" content="We consider the two-machine permutation flow shop scheduling problem with uncertain job processing time, which is sampled from no specific distribution type. For the ease of discussion, an ambiguity set with a priori mean and support set information is constructed. We then introduce a distributionally robust optimization (DRO) perspective to handle the uncertainty. To the best of our knowledge, this is the first time that a DRO method is applied to this problem setting. Given that the original DRO model is nonlinear and intractable in nature, we first reformulate the inner maximization problem into a linear programming model with a fixed sequence, based on the duality theory and optimality conditions. By including the sequence decision, we further transform it into an equivalent mixed-integer linear programming (MILP) problem via incorporating the valid lower and upper bounds and McCormick inequalities. The obtained MILP could be solved to optimality with the off-the-shelf commercial solvers. In the numerical study, it is demonstrated that the DRO-based model could effectively solve the large scale instances with up to 100 jobs optimally within 30 s. Compared with the SLP, DRO model always triumphs on the worst-case indicator. And as the problem scale increases, the DRO model gradually outperforms the SLP in terms of the Up-90% and Up-75% indicators. Furthermore, the optimal sequence obtained by the deterministic model is less stable than the DRO model, which can enhance the robustness of the manufacturing system against processing uncertainty." /><meta property="og:image" content="/media/icon_hua8c16de7726cc20d06ca0226f429b24a_231051_512x512_fill_lanczos_center_3.png" />
     <meta property="twitter:image" content="/media/icon_hua8c16de7726cc20d06ca0226f429b24a_231051_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2023-07-10T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2023-07-10T14:19:11&#43;08:00">
+  
+
+  
 
 
-
-
-
-
-
-
-
+    
 
 
 
@@ -305,15 +310,15 @@
     "@id": "/publication/pei-2023-distributionally/"
   },
   "headline": "A distributionally robust approach for the two-machine permutation flow shop scheduling",
-
-  "datePublished": "0001-01-01T00:00:00Z",
-  "dateModified": "0001-01-01T00:00:00Z",
-
+  
+  "datePublished": "2023-07-10T00:00:00Z",
+  "dateModified": "2023-07-10T14:19:11+08:00",
+  
   "author": {
     "@type": "Person",
     "name": "Haimin Lu"
   },
-
+  
   "publisher": {
     "@type": "Organization",
     "name": "EMICC Group",
@@ -326,13 +331,13 @@
 }
 </script>
 
+  
 
+  
 
+  
 
-
-
-
-
+  
 
 
 
@@ -344,18 +349,18 @@
 
 <body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="8b17f8365f6f66125e500c59f1ff4253" >
 
-
-
-
-
-
-
-
-
-
+  
+  
+  
+  
+  
+  
+  
+  
+  
   <script src="/js/wowchemy-init.min.b8153d4570dcbb34350a2a846dba8c03.js"></script>
 
-
+  
 
 
 <aside class="search-modal" id="search">
@@ -372,23 +377,23 @@
       </div>
 
       <div id="search-box">
-
+        
         <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
         autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
         aria-label="Search...">
-
+        
       </div>
 
+      
+      
 
-
-
-
+      
 
     </section>
     <section class="section-search-results">
 
       <div id="search-hits">
-
+        
       </div>
 
     </section>
@@ -398,7 +403,7 @@
 
 
   <div class="page-header">
-
+    
 
 
 
@@ -414,201 +419,201 @@
 <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
   <div class="container-xl">
 
-
+    
     <div class="d-none d-lg-inline-flex">
       <a class="navbar-brand" href="/">EMICC Group</a>
     </div>
+    
 
-
-
+    
     <button type="button" class="navbar-toggler" data-toggle="collapse"
             data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
     <span><i class="fas fa-bars"></i></span>
     </button>
+    
 
-
-
+    
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
       <a class="navbar-brand" href="/">EMICC Group</a>
     </div>
+    
 
-
-
-
+    
+    
     <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
 
-
+      
       <ul class="navbar-nav d-md-inline-flex">
+        
 
+        
 
+        
+        
+        
 
+        
 
+        
+        
+        
+        
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        
+          
+            
+            
+          
+          
+        
 
         <li class="nav-item">
           <a class="nav-link " href="/post"><span>News</span></a>
         </li>
 
+        
+        
 
+        
 
+        
+        
+        
+          
+        
 
+        
 
+        
+        
+        
+        
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        
+          
+            
+            
+          
+          
+        
 
         <li class="nav-item">
           <a class="nav-link " href="/people"><span>Members</span></a>
         </li>
 
+        
+        
 
+        
 
+        
+        
+        
+          
+        
 
+        
 
+        
+        
+        
+        
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        
+          
+            
+            
+          
+          
+        
 
         <li class="nav-item">
           <a class="nav-link " href="/event"><span>Courses</span></a>
         </li>
 
+        
+        
 
+        
 
+        
+        
+        
+          
+        
 
+        
 
+        
+        
+        
+        
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        
+          
+            
+            
+          
+          
+        
 
         <li class="nav-item">
           <a class="nav-link " href="/publication"><span>Publications</span></a>
         </li>
 
+        
+        
 
+        
 
+        
+        
+        
+          
+        
 
+        
 
+        
+        
+        
+        
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        
+          
+            
+            
+          
+          
+        
 
         <li class="nav-item">
           <a class="nav-link " href="/contact"><span>Contact</span></a>
         </li>
 
+        
+        
 
+      
 
-
-
-
-
+        
       </ul>
     </div>
 
     <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
 
+      
+      
 
-
-
-
-
+      
+      
       <li class="nav-item">
         <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
       </li>
+      
 
-
-
-
+      
+      
       <li class="nav-item dropdown theme-dropdown">
         <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
           <i class="fas fa-moon" aria-hidden="true"></i>
@@ -625,10 +630,10 @@
           </a>
         </div>
       </li>
+      
 
-
-
-
+      
+      
 
     </ul>
 
@@ -639,7 +644,7 @@
   </div>
 
   <div class="page-body">
-
+    
 
 
 
@@ -650,6 +655,7 @@
 
 <div class="pub">
 
+  
 
 
 
@@ -662,69 +668,70 @@
 
 
 
+  
 
-
-
-
-
-
+  
+  
+  
 <div class="article-container pt-3">
   <h1>A distributionally robust approach for the two-machine permutation flow shop scheduling</h1>
 
+  
 
-
-
-
+  
+    
 
 
 <div class="article-metadata">
 
-
-
-
-
+  
+  
+  
+  
   <div>
-
+    
 
   <span >
       <a href="/author/haimin-lu/">Haimin Lu</a></span>, <span >
       <a href="/author/zhi-pei/">Zhi Pei</a></span>
   </div>
+  
+  
 
-
-
-
+  
   <span class="article-date">
-
-
-
-
-    January 0001
+    
+    
+      
+    
+    July 2023
   </span>
+  
 
+  
 
+  
 
+  
+  
+  
+  
+  
+  
 
-
-
-
-
-
-
-
-
-
-
-
+  
+  
 
 </div>
 
-
+    
 
 
 
 
 <div class="btn-links mb-3">
+  
+  
 
 
 
@@ -733,9 +740,7 @@
 
 
 
-
-
-
+  
 
 
 
@@ -759,19 +764,19 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
   <a class="btn btn-outline-primary btn-page-header" href="https://doi.org/10.1007/s10479-023-05489-x" target="_blank" rel="noopener">
-
+    
     DOI
   </a>
 
@@ -779,20 +784,20 @@
 </div>
 
 
-
+  
 </div>
 
 
 
   <div class="article-container">
 
-
+    
     <h3>Abstract</h3>
     <p class="pub-abstract">We consider the two-machine permutation flow shop scheduling problem with uncertain job processing time, which is sampled from no specific distribution type. For the ease of discussion, an ambiguity set with a priori mean and support set information is constructed. We then introduce a distributionally robust optimization (DRO) perspective to handle the uncertainty. To the best of our knowledge, this is the first time that a DRO method is applied to this problem setting. Given that the original DRO model is nonlinear and intractable in nature, we first reformulate the inner maximization problem into a linear programming model with a fixed sequence, based on the duality theory and optimality conditions. By including the sequence decision, we further transform it into an equivalent mixed-integer linear programming (MILP) problem via incorporating the valid lower and upper bounds and McCormick inequalities. The obtained MILP could be solved to optimality with the off-the-shelf commercial solvers. In the numerical study, it is demonstrated that the DRO-based model could effectively solve the large scale instances with up to 100 jobs optimally within 30 s. Compared with the SLP, DRO model always triumphs on the worst-case indicator. And as the problem scale increases, the DRO model gradually outperforms the SLP in terms of the Up-90% and Up-75% indicators. Furthermore, the optimal sequence obtained by the deterministic model is less stable than the DRO model, which can enhance the robustness of the manufacturing system against processing uncertainty.</p>
+    
 
-
-
-
+    
+    
     <div class="row">
       <div class="col-md-1"></div>
       <div class="col-md-10">
@@ -808,9 +813,9 @@
       <div class="col-md-1"></div>
     </div>
     <div class="d-md-none space-below"></div>
+    
 
-
-
+    
     <div class="row">
       <div class="col-md-1"></div>
       <div class="col-md-10">
@@ -822,13 +827,13 @@
       <div class="col-md-1"></div>
     </div>
     <div class="d-md-none space-below"></div>
-
+    
 
     <div class="space-below"></div>
 
     <div class="article-style"></div>
 
-
+    
 
 
 
@@ -837,85 +842,85 @@
 
 <div class="share-box" aria-hidden="true">
   <ul class="share">
-
-
-
-
-
-
-
-
+    
+      
+      
+      
+        
+      
+      
+      
       <li>
         <a href="https://twitter.com/intent/tweet?url=/publication/pei-2023-distributionally/&amp;text=A%20distributionally%20robust%20approach%20for%20the%20two-machine%20permutation%20flow%20shop%20scheduling" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
-
-
-
-
-
-
-
-
+    
+      
+      
+      
+        
+      
+      
+      
       <li>
         <a href="https://www.facebook.com/sharer.php?u=/publication/pei-2023-distributionally/&amp;t=A%20distributionally%20robust%20approach%20for%20the%20two-machine%20permutation%20flow%20shop%20scheduling" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
-
-
-
-
-
-
-
-
+    
+      
+      
+      
+        
+      
+      
+      
       <li>
         <a href="mailto:?subject=A%20distributionally%20robust%20approach%20for%20the%20two-machine%20permutation%20flow%20shop%20scheduling&amp;body=/publication/pei-2023-distributionally/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
-
-
-
-
-
-
-
-
+    
+      
+      
+      
+        
+      
+      
+      
       <li>
         <a href="https://www.linkedin.com/shareArticle?url=/publication/pei-2023-distributionally/&amp;title=A%20distributionally%20robust%20approach%20for%20the%20two-machine%20permutation%20flow%20shop%20scheduling" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
-
-
-
-
-
-
-
-
+    
+      
+      
+      
+        
+      
+      
+      
       <li>
         <a href="whatsapp://send?text=A%20distributionally%20robust%20approach%20for%20the%20two-machine%20permutation%20flow%20shop%20scheduling%20/publication/pei-2023-distributionally/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
-
-
-
-
-
-
-
-
+    
+      
+      
+      
+        
+      
+      
+      
       <li>
         <a href="https://service.weibo.com/share/share.php?url=/publication/pei-2023-distributionally/&amp;title=A%20distributionally%20robust%20approach%20for%20the%20two-machine%20permutation%20flow%20shop%20scheduling" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
-
+    
   </ul>
 </div>
 
@@ -929,6 +934,20 @@
 
 
 
+  
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
 
 
 
@@ -943,22 +962,8 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  
+  
 
 
 
@@ -969,23 +974,23 @@
   </div>
 
   <div class="page-footer">
-
-
+    
+    
     <div class="container">
       <footer class="site-footer">
 
+  
 
+  
 
-
-
-
+  
   <p class="powered-by">
     © 2021 | EMICC Group
   </p>
+  
 
-
-
-
+  
+  
 
 
 
@@ -993,25 +998,25 @@
 
 
   <p class="powered-by">
-
-
-
-
-
-
-
-
-
+    
+    
+    
+      
+      
+      
+      
+      
+      
       Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
-
+    
   </p>
 </footer>
 
     </div>
-
+    
   </div>
 
-
+  
 <div id="modal" class="modal fade" role="dialog">
   <div class="modal-dialog">
     <div class="modal-content">
@@ -1037,40 +1042,40 @@
   </div>
 </div>
 
+      
 
-
-
-
-
+    
+    
+    
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
 
-
-
+      
+      
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      
 
+      
+      
 
+      
 
+      
 
+    
 
+    
+    
+    
 
+    
+    
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    
+    
+    
+      
       <script id="search-hit-fuse-template" type="text/x-template">
         <div class="search-hit" id="summary-{{key}}">
           <div class="search-hit-content">
@@ -1082,49 +1087,49 @@
           </div>
         </div>
       </script>
-
+      
         <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+      
+    
 
+    
+    
 
+    
+    
+    
+    
 
-
-
-
-
-
-
-
-
-
+    
     <script src="/js/bootstrap.bundle.min.6aed84840afc03ab4d5750157f69c120.js"></script>
 
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
     <script src="/en/js/wowchemy.min.fb8eb32a4d207f5f18023712a904b210.js"></script>
 
-
+    
 
 
 
