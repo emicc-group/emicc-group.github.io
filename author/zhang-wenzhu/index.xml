@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ZHANG Wenzhu | EMICC Group</title>
+    <title>Zhang Wenzhu | EMICC Group</title>
     <link>/author/zhang-wenzhu/</link>
       <atom:link href="/author/zhang-wenzhu/index.xml" rel="self" type="application/rss+xml" />
-    <description>ZHANG Wenzhu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <description>Zhang Wenzhu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright>
     <image>
-      <url>/media/icon_hua8c16de7726cc20d06ca0226f429b24a_231051_512x512_fill_lanczos_center_3.png</url>
-      <title>ZHANG Wenzhu</title>
+      <url>/author/zhang-wenzhu/avatar_hu80c089013cb5b15cb6bfdb46d58a554f_1073562_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Zhang Wenzhu</title>
       <link>/author/zhang-wenzhu/</link>
     </image>
-    
-    <item>
-      <title>Multi-objective reconfigurable production line scheduling forsmart home appliances</title>
-      <link>/publication/shiyun-2021-multi/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/shiyun-2021-multi/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
