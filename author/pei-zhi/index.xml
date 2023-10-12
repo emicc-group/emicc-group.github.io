@@ -1,15 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PEI Zhi | EMICC Group</title>
+    <title>Pei Zhi | EMICC Group</title>
     <link>/author/pei-zhi/</link>
       <atom:link href="/author/pei-zhi/index.xml" rel="self" type="application/rss+xml" />
-    <description>PEI Zhi</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <description>Pei Zhi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright>
     <image>
-      <url>/media/icon_hua8c16de7726cc20d06ca0226f429b24a_231051_512x512_fill_lanczos_center_3.png</url>
-      <title>PEI Zhi</title>
+      <url>/author/pei-zhi/avatar_hu063289f0c7b508f802d1b995a5aee3d3_5501_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Pei Zhi</title>
       <link>/author/pei-zhi/</link>
+    </image>
+    
+  </channel>
+</rss>
+zhi/</link>
     </image>
     
     <item>
