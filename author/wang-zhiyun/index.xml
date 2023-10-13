@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wang Zhiyun | EMICC Group</title>
+    <link>/author/wang-zhiyun/</link>
+      <atom:link href="/author/wang-zhiyun/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wang Zhiyun</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright>
+    <image>
+      <url>/author/wang-zhiyun/avatar_hu1599c56eff517677e4c252ada059e397_2866376_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Wang Zhiyun</title>
+      <link>/author/wang-zhiyun/</link>
+    </image>
+    
+  </channel>
+</rss>
