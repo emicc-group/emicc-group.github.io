@@ -1,16 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Latest News | EMICC Group</title>
+    <title>Posts | EMICC Group</title>
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Latest News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright><lastBuildDate>Mon, 18 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 | EMICC Group</copyright><lastBuildDate>Thu, 21 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hua8c16de7726cc20d06ca0226f429b24a_231051_512x512_fill_lanczos_center_3.png</url>
-      <title>Latest News</title>
+      <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Congratulations to Prof. Zhi Pei&#39;s team for being selected as Featured Article by the journal SERVICE SCIENCE.</title>
+      <link>/post/23-12-21-servicescience-featuredarticle-daixu/</link>
+      <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>/post/23-12-21-servicescience-featuredarticle-daixu/</guid>
+      <description>&lt;p&gt;恭喜裴植老师课题组的研究工作被SERVICE SCIENCE期刊评选为Featured Article。&lt;/p&gt;
+&lt;h3 id=&#34;title&#34;&gt;Title&lt;/h3&gt;
+&lt;p&gt;Dynamic Rebalancing Strategy in Free-Float Bicycle Sharing Systems: Orbit Queues and Two-Sided Matching&lt;/p&gt;
+&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;In populous metropolitan areas, the free-floating bicycle-sharing system (FFBSS) acts as an innovative urban mobility as a service, which provides an ease-of-use feature and extra flexibility in contrast to the traditional shared bicycles with docks. In consideration of customer behaviors, such as abandonment and retrial, which occur in FFBSS, a redistribution strategy for shared bicycles among different user-density locations is presented with an aim to diminish the total operational cost while enhancing the overall service level. To formulate the user and multitype shared bicycle–arrival patterns as nonhomogeneous queues, our results provide a tractable analytical paradigm for a time-varying balancing strategy for FFBSS. The bicycle variation at each virtual zone after each redistribution is determined via a nonstationary queueing model, in which the service time, patience time, and research delay are all subject to general distribution. Then, the bicycle-deployment strategy is evaluated with respect to average queueing length and abandonment rate during a normal workday based on a tailored nonhomogeneous probabilistic matching queue. To verify the efficacy and cost-effectiveness of the proposed bicycle-redistribution strategy, multiple simulation runs are conducted with respect to various times of the day. It shows that the resulting optimal rebalancing strategy is batch-based in synchrony with the time heterogeneity in the traffic demand. Furthermore, several managerial insights are provided to shed light on the rule of thumb in practical FFBSS redistribution coordination.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Congratulations to Prof. Zhi Pei, Yunduo Liu, Xu Dai and Yilun Yuan for their paper published in TR-Part C.</title>
